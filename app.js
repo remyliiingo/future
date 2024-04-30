@@ -2,7 +2,6 @@
 const quotes = [
     "“Life is like riding a bicycle. To keep your balance, you must keep moving.” - Albert Einstein",
     "“A friend is someone who understands your past, believes in your future, and accepts you just the way you are.” - Unknown",
-    // more quotes
   ];
   
   // Get quote element
